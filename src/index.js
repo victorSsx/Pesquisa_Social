@@ -5,14 +5,14 @@ const perguntas = [
     "Prefere me dar o cu ou perder a vida?"
 ];
 const textosBotoes = [
-    "Eu escolho sem medo!",
+    "Sim, sem medo!",
     "Pode mandar!",
     "Tô pronto/a pra tudo!",
-    "É todo seu meu amor 😜🍑💦"
+    "Quando você quiser 😜🍑❤️‍🔥"
 ];
 const textosNegacao = [
     "Não!",
-    "Prefiro sobreviver 😅",
+    "Melhor não...😅",
     "Deixa pra lá... 🏃‍♂️",
     "Jamais! Minha vida vale mais 😂"
 ];

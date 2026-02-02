@@ -5,10 +5,10 @@ const perguntas = [
     "Prefere me dar o cu ou perder a vida?"
 ];
 const textosBotoes = [
-    "Eu escolho sem medo! 😈",
-    "Pode mandar! 🔥",
-    "Tô pronto/a pra tudo! 😏",
-    "Eu me entrego 😜🍑💦"
+    "Eu escolho sem medo!",
+    "Pode mandar!",
+    "Tô pronto/a pra tudo!",
+    "É todo seu meu amor 😜🍑💦"
 ];
 const textosNegacao = [
     "Não!",
@@ -25,7 +25,7 @@ function sim() {
         document.getElementById('btn-cu').textContent = textosBotoes[etapa];
         document.getElementById('btn-negacao').textContent = textosNegacao[etapa];
     } else {
-        alert('Agora não tem mais volta... Se tiver coragem, me chama no privado e vamos ver até onde você aguenta! 😏🔥🍑');
+        alert('Agora não tem mais volta... você será degustada por mim! 😋🍑 \n Acende o 🔥');
         location.href = "https://www.youtube.com/watch?v=hIZ40ehGu-U";
     }
 }

@@ -14,7 +14,7 @@ const textosNegacao = [
     "Não!",
     "Melhor não...😅",
     "Deixa pra lá... 🏃‍♂️",
-    "Jamais! Minha vida vale mais 😂"
+    "Nem um nem outro 😂"
 ];
 let etapa = 0;
 
